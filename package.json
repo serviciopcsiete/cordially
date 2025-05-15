@@ -14,7 +14,6 @@
     "adminbuild": "vite build --emptyOutDir",
     "init": "npx ts-node src/init.ts",
     "test": "jest",
-    "preinstall": "node -e throw new Error('TEMP ERROR') \""
   },
   "author": "poisonborz",
   "license": "GPL-3.0-only",
