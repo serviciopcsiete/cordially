@@ -13,7 +13,7 @@
     "admindev": "vite",
     "adminbuild": "vite build --emptyOutDir",
     "init": "npx ts-node src/init.ts",
-    "test": "jest",
+    "test": "jest"
   },
   "author": "poisonborz",
   "license": "GPL-3.0-only",
